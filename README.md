@@ -1,9 +1,12 @@
-# frontend-angular
+<a href="https://deploymonk.com"><img src="https://deploymonk.com/images/brand.png" alt="Deploy Monk" height="60" /></a>
 
-Repository for the the following guide:
+A super simple Angular application.
 
-**Angular**
+## Getting started
 
-Deploy your client front-end websites and web applications build using Angular framework easily using Deploy Monk.
+- Clone this repository: `git clone git@github.com:deploymonk/frontend-angular.git`
+- Install dependencies: `npm install`
+- Start server: `npm start`
 
-Link: [explore.deploymonk.com/docs/frontend-angular](https://explore.deploymonk.com/docs/frontend-angular)
+## Deploy
+Deploy your own clone of this repository using Deploy Monk. Head to [explore.deploymonk.com/docs/frontend-angular](https://explore.deploymonk.com/docs/frontend-angular) to learn more!
